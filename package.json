@@ -1,0 +1,19 @@
+{
+  "name": "vue-p5-play",
+  "version": "1.0.0",
+  "description": "Make p5.play compatible with vue-p5.",
+  "main": "p5.play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uber1337mate/vue-p5-play.git"
+  },
+  "author": "uber1337",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/uber1337mate/vue-p5-play/issues"
+  },
+  "homepage": "https://github.com/uber1337mate/vue-p5-play#readme"
+}
